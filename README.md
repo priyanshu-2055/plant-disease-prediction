@@ -1,7 +1,30 @@
 # plant-disease-prediction-cnn-deep-leanring-project
-This repository is about building an Image classifier CNN with Python on Plant Disease Prediction.
+🌱 Plant Disease Prediction (CNN)
 
-Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+A deep learning project for plant disease detection using Convolutional Neural Networks (CNNs) trained on 38 classes of healthy and diseased plant leaves.
 
-Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+📌 Features
+
+TensorFlow/Keras CNN architecture
+
+Data preprocessing & augmentation
+
+Train/Test split for evaluation
+
+38 plant disease categories
+
+
+
+📊 Results
+
+Classes: 38
+
+Metrics: Accuracy, Loss
+
+🚀 Future Work
+
+Web/mobile app deployment
+
+Transfer Learning (ResNet, EfficientNet)
+
 
